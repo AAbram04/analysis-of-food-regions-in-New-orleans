@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Yelp JSON/
+.httr-oauth
+.DS_Store
+.quarto
