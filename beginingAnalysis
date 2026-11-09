@@ -1,0 +1,44 @@
+Data not in github download from
+nola wards
+nola neighborhoods
+yelp dataset
+Focus on places to get traditional louisiana style cuisine
+
+1 New Orleans     Harahan     Mismatch 4
+2 New Orleans   Jefferson     Mismatch 4
+3 New Orleans     Elmwood     Mismatch 2
+4 New Orleans       Arabi     Mismatch 1
+5 New Orleans      Gretna     Mismatch 1
+6 New Orleans      Harvey     Mismatch 1
+7 New Orleans      Kenner     Mismatch 1
+8 New Orleans    Metairie     Mismatch 1
+9 New Orleans River Ridge     Mismatch 1
+
+Harahan ok
+Jefferson not
+Elmwood ok
+Metairie ok
+Kenne ok
+and Gretna is
+Arabi ok
+River ridge ok’
+
+Also places near new orleans and functional to get to expect jefferson, jefferson is a parish and thus quite large we do not know how close it is to the final destination
+     Geographic system Number of areas Restaurants assigned Unmatched restaurants
+                      ZIP/ZCTA              30                  632                     0
+                  Census tract             311                  632                     0
+ Neighborhood Statistical Area              72                  632                     0
+                          Ward              17                  630                     2
+ Smallest area count Largest area count
+                   2                212
+                   1                111
+                   1                162
+                   5                116
+Neighborhood seems the most useful all assigned reasonable size and amount easily understandable
+areas are walkable contain reasonable amounts of resturaunts and can be googled in order to be found
+no unmatched points matches new orleans general area
+
+Best neighborhoods either McDONOGH or seventh ward
+McDonogh has by far highest rating while seventh ward maintains high rating with large restaurant count
+Continue exploration But seventh wards seems to hold high rating
+smaller size and denisty further supports walkabality And ability to appear and happen into a good resutraunt
